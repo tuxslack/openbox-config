@@ -30,6 +30,24 @@ Pré-requisitos para usar essas configurações do OpenBox:
 - wmctrl
 - numlockx (ligar o teclado numérico na inicialização)
 - volumeicon (volume de som)
+- neofetch
+- gthumb
+- galculator
+- qmmp
+- dropbox
+- masterpdfeditor
+- Firefox
+- Google Chrome
+- Thunderbird
+- ClipGrab
+- vlc
+- GIMP
+- LibreOffice
+- xsane
+- ssr
+- wget
+- ffmpeg
+- xrandr
 
  
 
@@ -38,6 +56,10 @@ Instalação:
 Clonando o repositório
 
 $ cd ~/.config/ && git clone https://github.com/tuxslack/openbox-config.git
+
+$ mv  -i ~/.config/openbox-config    ~/.config/openbox
+$ rm -Rf ~/.config/openbox/.git      ~/.config/openbox/README.md
+
 
 Para atualizar as configurações do OpenBox
 
