@@ -57,6 +57,7 @@ Clonando o repositório
 
 $ cd ~/.config/ && git clone https://github.com/tuxslack/openbox-config.git
 
+$ rm -Rf ~/.config/openbox
 $ mv  -i ~/.config/openbox-config    ~/.config/openbox
 $ rm -Rf ~/.config/openbox/.git      ~/.config/openbox/README.md
 
