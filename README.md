@@ -1,3 +1,9 @@
+Por Fernando <br />
+Data: 11/02/2024 <br />
+Atualizações em: https://github.com/tuxslack/openbox-config <br />
+YouTube: https://www.youtube.com/@fernandosuporte <br /> <br /> <br />
+
+
 # openbox-config
 
 Configurações do OpenBox localizada em  ~/.config/openbox
@@ -10,7 +16,7 @@ Void Linux
 xbps-install -Suvy openbox
 
 
-Pré-requisitos para usar essas configurações do OpenBox:
+Pré-requisitos para usar essas configurações no OpenBox:
 
 - obconf (Editor de configuracões gerais para OpenBox)
 - nitrogen (Para trocar o Wallpaper)
@@ -23,7 +29,7 @@ Pré-requisitos para usar essas configurações do OpenBox:
 - thunar (Gerenciador de arquivo)
 - xfce4-terminal ou xterm (Terminal)
 - plank (Dock)
-- xkill (Em caso de travamento ou congelamento inesperado de um determinado programa grafico)
+- xkill (Em caso de travamento ou congelamento inesperado de um determinado programa gráfico)
 - gedit (Editor de texto)
 - gmrun (Caixa executar podendo ser adicionada ao menu do OpenBox, no painel e ser acionada por tecla de atalho.)
 - lxappearance lxappearance-obconf
@@ -55,14 +61,18 @@ Instalação:
 
 Clonando o repositório
 
-$ cd ~/.config/ && git clone https://github.com/tuxslack/openbox-config.git
+$ cd ~/.config/ && git clone https://github.com/tuxslack/openbox-config.git <br />
 
-$ rm -Rf ~/.config/openbox
-$ mv  -i ~/.config/openbox-config    ~/.config/openbox
-$ rm -Rf ~/.config/openbox/.git      ~/.config/openbox/README.md
+$ rm -Rf ~/.config/openbox <br />
+$ mv  -i ~/.config/openbox-config    ~/.config/openbox <br />
+$ rm -Rf ~/.config/openbox/.git      ~/.config/openbox/README.md <br />
 
 
 Para atualizar as configurações do OpenBox
 
 $ openbox --reconfigure
 
+
+
+
+[YouTube](https://www.youtube.com/@fernandosuporte/videos "Clique e acesse agora!")
