@@ -1,7 +1,6 @@
 Por: Fernando <br />
 Data: 11/02/2024 <br />
-Atualizações em: https://github.com/tuxslack/openbox-config <br />
-YouTube: https://www.youtube.com/@fernandosuporte <br /> <br /> <br />
+[Atualizações](https://github.com/tuxslack/openbox-config "https://github.com/tuxslack/openbox-config") | [YouTube](https://www.youtube.com/@fernandosuporte/videos "Clique e acesse agora!") <br /> <br /> <br />
 
 
 # openbox-config
@@ -74,7 +73,3 @@ Para atualizar as configurações do OpenBox
 
 $ openbox --reconfigure
 
-
-
-
-[YouTube](https://www.youtube.com/@fernandosuporte/videos "Clique e acesse agora!")
