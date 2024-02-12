@@ -1,4 +1,4 @@
-Por Fernando <br />
+Por: Fernando <br />
 Data: 11/02/2024 <br />
 Atualizações em: https://github.com/tuxslack/openbox-config <br />
 YouTube: https://www.youtube.com/@fernandosuporte <br /> <br /> <br />
@@ -37,16 +37,16 @@ Pré-requisitos para usar essas configurações no OpenBox:
 - numlockx (ligar o teclado numérico na inicialização)
 - volumeicon (volume de som)
 - neofetch
-- gthumb
+- gthumb (Visualizador de imagens)
 - galculator
-- qmmp
+- qmmp ou mocp (Reprodutor de Música)
 - dropbox
-- masterpdfeditor
+- Master PDF Editor (Para visualizar arquivo em PDF)
 - Firefox
 - Google Chrome
 - Thunderbird
 - ClipGrab
-- vlc
+- vlc, Mplayer ou Parole (Reprodutor de vídeo)
 - GIMP
 - LibreOffice
 - xsane
@@ -54,6 +54,8 @@ Pré-requisitos para usar essas configurações no OpenBox:
 - wget
 - ffmpeg
 - xrandr
+- k3b, xfburn ou dd (Para gravar imagem iso em CD/DVD)
+- screenkey
 
  
 
